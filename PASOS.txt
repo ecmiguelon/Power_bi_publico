@@ -22,6 +22,10 @@ EN VISUAL CODE:
 2. En VSC aparecera el numero 1 en el icono de rama de la derecha. Podemos Mensaje al Confirmar (Equivalente a: git commit "bla,bla,bla" -m git push)
 3. ESCRIBIR COMENYTARIO Y DAR Confirmacion
 
+EN POWER BI:
+1. ABRO POWER BI, IMPORTO EL ARCHIVO DE  LA CARPETA DATOS Y LA EDITO
+2. GRABO EL POWER BI EN UNA NUEVA CARPETA CREADA 
+3. 
 
 
 
