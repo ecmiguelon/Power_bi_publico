@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=FUgGzqcvZIs
+
+1 ENTRO AL terminal
+2 tecleo:
+git.init (creara carpeta oculta .git)
+3. copiamos la URL-CODE de la pagweb del GitHub (https://github.com/ecmiguelon/Power_bi_publico.git)
+4. digito:
+git remote add origen https://github.com/ecmiguelon/Power_bi_publico.git (Si todo va bien no saldrá nada)
+git remote -v (aparece ok putch y fetch)
+5. TRAEREMOS LOS ARCHIVOS DELA WEB A LA PC:
+git pull
+
+..(pero aun ha bajado la rama,,)
+6. Activaremos mi rama MASTER
+git checkout main (o master)
+
+7 AHORA VAMOS A VISUAL STUDIO CODE
+code .
+
+EN VISUAL CODE:
+1. CREAMOS CARPETA DATA Donde guardaremos los datos
+2. En VSC aparecera el numero 1 en el icono de rama de la derecha. Podemos Mensaje al Confirmar (Equivalente a: git commit "bla,bla,bla" -m git push)
+
+
+
