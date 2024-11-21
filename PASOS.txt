@@ -25,7 +25,8 @@ EN VISUAL CODE:
 EN POWER BI:
 1. ABRO POWER BI, IMPORTO EL ARCHIVO DE  LA CARPETA DATOS Y LA EDITO
 2. GRABO EL POWER BI EN UNA NUEVA CARPETA CREADA 
-3. 
+3. como no se podra abrir ese archivo pbx desde web, nos paoayaremos en un archivo reedme:
+4. Creo al lado del archivo .pbx un archivo README.md
 
 
 

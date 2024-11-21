@@ -1,2 +1,3 @@
-# Power_bi_publico
-Mis informes públicos elaborados en  powerbi
+# Informes Públicos en Power BI
+Aqui se colgarán mis informes públicos elaborados en Power BI
+
